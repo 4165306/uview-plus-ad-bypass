@@ -6,9 +6,6 @@ A Tampermonkey userscript that bypasses ad verification, simulates VIP access, a
 
 - Bypasses ad verification requests on uView Plus documentation sites
 - Simulates VIP status to remove ad-related restrictions
-- Blocks Google Ads (AdSense, DoubleClick, FundingChoices)
-- Removes QR code prompts and ad popups
-- Works on multiple uView Plus domain variants
 
 ## Supported Sites
 
