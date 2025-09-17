@@ -15,8 +15,8 @@
 // @icon         https://uview-plus.lingyun.net/favicon.ico
 // @run-at       document-start
 // @grant        none
-// @downloadURL https://github.com/4165306/uview-plus-ad-bypass/tree/main
-// @updateURL https://github.com/4165306/uview-plus-ad-bypass/tree/main
+// @downloadURL https://raw.githubusercontent.com/4165306/uview-plus-ad-bypass/refs/heads/main/1.js
+// @updateURL https://raw.githubusercontent.com/4165306/uview-plus-ad-bypass/refs/heads/main/1.js
 // ==/UserScript==
 
 (function () {
